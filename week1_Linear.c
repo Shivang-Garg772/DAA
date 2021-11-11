@@ -19,7 +19,7 @@ int main()
                 break;
             }
         } 
-        if(i==n)
+        if(i==(n-1))
         {
             printf("\nNOT PRESENT %d\n",i);
         }
